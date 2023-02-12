@@ -1,0 +1,10 @@
+﻿  stos.cpp
+D:\Studia\II semestr\Języki i paradygmaty programowania\stos kopia nowa\stos\my_stack.h(8,2): warning C4091: "typedef ": zignorowano na lewo od "stack" podczas gdy brak deklaracji zmiennej
+D:\Studia\II semestr\Języki i paradygmaty programowania\stos kopia nowa\stos\stos.cpp(15,9): warning C4477: „scanf”: ciąg formatu „%d” wymaga argumentu typu „int *”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t *”
+D:\Studia\II semestr\Języki i paradygmaty programowania\stos kopia nowa\stos\stos.cpp(15,9): message : rozważ użycie elementu „%zd” w ciągu formatu
+  Trwa generowanie kodu
+  1 of 10 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  stos.vcxproj -> D:\Studia\II semestr\Języki i paradygmaty programowania\stos kopia nowa\x64\Release\stos.exe

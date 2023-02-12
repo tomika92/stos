@@ -1,0 +1,16 @@
+﻿  menu.c
+E:\stos c\stos\my_stack.h(8,2): warning C4091: "typedef ": zignorowano na lewo od "stack" podczas gdy brak deklaracji zmiennej
+  my_mess.c
+E:\stos c\stos\my_stack.h(8,2): warning C4091: "typedef ": zignorowano na lewo od "stack" podczas gdy brak deklaracji zmiennej
+  my_stack.c
+E:\stos c\stos\my_stack.h(8,2): warning C4091: "typedef ": zignorowano na lewo od "stack" podczas gdy brak deklaracji zmiennej
+  my_student.c
+E:\stos c\stos\my_stack.h(8,2): warning C4091: "typedef ": zignorowano na lewo od "stack" podczas gdy brak deklaracji zmiennej
+  stos.c
+E:\stos c\stos\my_stack.h(8,2): warning C4091: "typedef ": zignorowano na lewo od "stack" podczas gdy brak deklaracji zmiennej
+  Trwa generowanie kodu
+  0 of 39 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  stos.vcxproj -> E:\stos c\Release\stos.exe

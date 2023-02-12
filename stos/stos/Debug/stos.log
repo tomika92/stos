@@ -1,0 +1,12 @@
+﻿  menu.c
+D:\Studia\II semestr\Języki i paradygmaty programowania\Anna Tomiczek - stos\stos\my_stack.h(8,2): warning C4091: "typedef ": zignorowano na lewo od "stack" podczas gdy brak deklaracji zmiennej
+  my_mess.c
+D:\Studia\II semestr\Języki i paradygmaty programowania\Anna Tomiczek - stos\stos\my_stack.h(8,2): warning C4091: "typedef ": zignorowano na lewo od "stack" podczas gdy brak deklaracji zmiennej
+  my_student.c
+D:\Studia\II semestr\Języki i paradygmaty programowania\Anna Tomiczek - stos\stos\my_stack.h(8,2): warning C4091: "typedef ": zignorowano na lewo od "stack" podczas gdy brak deklaracji zmiennej
+  my_stack.c
+D:\Studia\II semestr\Języki i paradygmaty programowania\Anna Tomiczek - stos\stos\my_stack.h(8,2): warning C4091: "typedef ": zignorowano na lewo od "stack" podczas gdy brak deklaracji zmiennej
+  stos.c
+D:\Studia\II semestr\Języki i paradygmaty programowania\Anna Tomiczek - stos\stos\my_stack.h(8,2): warning C4091: "typedef ": zignorowano na lewo od "stack" podczas gdy brak deklaracji zmiennej
+  Generowanie kodu...
+  stos.vcxproj -> D:\Studia\II semestr\Języki i paradygmaty programowania\Anna Tomiczek - stos\Debug\stos.exe
